@@ -10,6 +10,7 @@ Disclaimer: Whilst this document contains some broad discussions around tax and 
 1. [Your First Contract](#your-first-contract)
 1. [Tax Responsibilities](#tax-responsibilities)
 1. [Withdrawing Money From your Limited Company](#withdrawing-money-from-your-limited-company)
+1. [Mortgages] (#mortgages)
 
 ## Getting Started
 
@@ -155,3 +156,19 @@ TODO
 ### Director's Loan
 
 TODO
+
+## Mortgages
+
+There is the perception amongst high street lenders that contractors are more risky to lend to so approaching a bank directly will almost always end in a no. 
+
+You can get mortgages with very little/no prior contracting provided you have been in the industry a while and have a good day rate (One person obtained a mortgage 2 months into their first 3 month contract with nothing lined up for after!)
+
+There are a number of specialist mortgage brokers who can help to arrange mortgages for contractors and in some cases obtain better deals than available at high street banks. 
+
+Contractors have had successes with the following brokers:
+
+- [CR Mortgages](https://crmortgages.co.uk/)
+- [CMME](https://www.cmmemortgages.com/)
+- [Crunch Mortgages](https://www.crunch.co.uk)
+
+Its usually worth asking people for referrals as often there are incentives (we all love free money)
