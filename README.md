@@ -10,7 +10,7 @@ Disclaimer: Whilst this document contains some broad discussions around tax and 
 1. [Your First Contract](#your-first-contract)
 1. [Tax Responsibilities](#tax-responsibilities)
 1. [Withdrawing Money From your Limited Company](#withdrawing-money-from-your-limited-company)
-1. [Mortgages] (#mortgages)
+1. [Mortgages](#mortgages)
 
 ## Getting Started
 
