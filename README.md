@@ -55,11 +55,13 @@ Whilst there are many accountants out there, and we obviously can't tell you whi
 
 ### Company Formation
 
-TODO
+You can do this yourself via the [government portal](https://www.gov.uk/limited-company-formation/register-your-company) or you can engage your accountant to form your company for you. Many will do this for you for a one time fee in the region of £100.
 
 ### VAT Registration
 
-TODO
+If you are full time contracting through a limited company then the odds are your company will surpass the threshold requiring your to register for VAT.
+
+You can do this yourself via the [government portal](https://www.gov.uk/register-for-vat/how-register-for-vat) or you can engage your accountant to do this for you. This is often done at the same time they register your company for you.
 
 ### Business Bank Account
 
